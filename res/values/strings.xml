@@ -44,6 +44,10 @@
   <string name="category_down_arrow_gesture">V gesture</string>
   <string name="category_left_arrow_gesture">&lt; gesture</string>
   <string name="category_right_arrow_gesture">&gt; gesture</string>
+  <string name="category_down_swipe_gesture">Down swipe</string>
+  <string name="category_up_swipe_gesture">Up swipe</string>
+  <string name="category_left_swipe_gesture">Left swipe</string>
+  <string name="category_right_swipe_gesture">Right swipe</string>
   <string name="category_circle_gesture">O gesture</string>
   <string name="category_m_gesture">M gesture</string>
   <string name="category_s_gesture">S gesture</string>
