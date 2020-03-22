@@ -96,7 +96,6 @@
   <string name="slider_mode_title_center">Center position</string>
   <string name="slider_mode_title_bottom">Bottom position</string>
   <string name="slider_mode_alarm">Alarms only</string>
-  <string name="slider_mode_dnd">Do not disturb</string>
   <string name="slider_mode_flashlight">Flashlight on/off</string>
   <string name="slider_mode_off">Ringer</string>
   <string name="slider_mode_priority">Priority only</string>
