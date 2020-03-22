@@ -35,6 +35,7 @@
   <string name="ambient_display_entry">Ambient display</string>
 
   <!-- Gesture options -->
+  <string name="screen_gestures_panel_title">Gestures</string>
   <string name="category_gestures_title">Device gestures</string>
   <string name="category_gestures_summary">Configure gesture actions</string>
   <string name="offscreen_gesture_title">Offscreen gestures</string>
