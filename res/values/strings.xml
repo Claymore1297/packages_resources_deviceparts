@@ -146,7 +146,7 @@
   <string name="srgb_mode_summary"></string>
   <string name="dci_mode_title">DCI-P3 mode</string>
   <string name="dci_mode_summary"></string>
-  <string name="Wide_mode_title">AMOLED Wide Colour Gamut</string>
+  <string name="wide_mode_title">AMOLED Wide Colour Gamut</string>
   <string name="Wide_mode_summary"></string>
   <string name="oneplus_mode_title">OnePlus mode</string>
   <string name="oneplus_mode_summary"></string>
